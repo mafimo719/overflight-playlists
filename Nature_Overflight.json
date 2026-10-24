@@ -1,0 +1,62 @@
+[
+  {
+    "location": "Iceland",
+    "title": "Iceland Riverbed [Nature]",
+    "url_1080p": "http://sylvan.apple.com/itunes-assets/Aerials116/v4/5f/8d/d7/5f8dd7a6-37aa-cf2f-8b06-931ea6a4054f/I003_C015_SDR_2K_HEVC.mov",
+    "url_4k": "http://sylvan.apple.com/itunes-assets/Aerials116/v4/5f/8d/d7/5f8dd7a6-37aa-cf2f-8b06-931ea6a4054f/I003_C015_SDR_4K_HEVC.mov"
+  },
+  {
+    "location": "Iceland",
+    "title": "Iceland Fjord from Above [Nature]",
+    "url_1080p": "http://sylvan.apple.com/itunes-assets/Aerials116/v4/5f/8d/d7/5f8dd7a6-37aa-cf2f-8b06-931ea6a4054f/I004_C014_SDR_2K_HEVC.mov",
+    "url_4k": "http://sylvan.apple.com/itunes-assets/Aerials116/v4/5f/8d/d7/5f8dd7a6-37aa-cf2f-8b06-931ea6a4054f/I004_C014_SDR_4K_HEVC.mov"
+  },
+  {
+    "location": "Iceland",
+    "title": "Iceland Coast [Nature]",
+    "url_1080p": "http://sylvan.apple.com/itunes-assets/Aerials116/v4/5f/8d/d7/5f8dd7a6-37aa-cf2f-8b06-931ea6a4054f/I003_C004_SDR_2K_HEVC.mov",
+    "url_4k": "http://sylvan.apple.com/itunes-assets/Aerials116/v4/5f/8d/d7/5f8dd7a6-37aa-cf2f-8b06-931ea6a4054f/I003_C004_SDR_4K_HEVC.mov"
+  },
+  {
+    "location": "Iceland",
+    "title": "Iceland Snow Caps [Nature]",
+    "url_1080p": "http://sylvan.apple.com/itunes-assets/Aerials116/v4/5f/8d/d7/5f8dd7a6-37aa-cf2f-8b06-931ea6a4054f/I005_C008_CROP_SDR_2K_HEVC.mov",
+    "url_4k": "http://sylvan.apple.com/itunes-assets/Aerials116/v4/5f/8d/d7/5f8dd7a6-37aa-cf2f-8b06-931ea6a4054f/I005_C008_CROP_SDR_4K_HEVC.mov"
+  },
+  {
+    "location": "Greenland",
+    "title": "Evening [Nature]",
+    "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GL_G010_C006_PSNK_NOSUN_v12_SDR_PS_FINAL_20180709_SDR_2K_HEVC.mov",
+    "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GL_G010_C006_PSNK_NOSUN_v12_SDR_PS_FINAL_20180709_SDR_4K_HEVC.mov"
+  },
+  {
+    "location": "Greenland",
+    "title": "Glacier [Nature]",
+    "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GL_G004_C010_PSNK_v04_SDR_PS_FINAL_20180709_SDR_2K_HEVC.mov",
+    "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/comp_GL_G004_C010_PSNK_v04_SDR_PS_FINAL_20180709_SDR_4K_HEVC.mov"
+  },
+  {
+    "location": "Hawaii",
+    "title": "Valley 2 [Nature]",
+    "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/comp_H005_C012_PS_v01_SDR_PS_20180925_SDR_2K_HEVC.mov",
+    "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/comp_H005_C012_PS_v01_SDR_PS_20180925_SDR_4K_HEVC.mov"
+  },
+  {
+    "location": "Hawaii",
+    "title": "Coastline [Nature]",
+    "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/comp_H007_C003_PS_v01_SDR_PS_20180925_SDR_2K_HEVC.mov",
+    "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/comp_H007_C003_PS_v01_SDR_PS_20180925_SDR_4K_HEVC.mov"
+  },
+  {
+    "location": "Liwa",
+    "title": "Dune Fields [Nature]",
+    "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/comp_LW_L001_C006_PSNK_DENOISE_v02_SDR_PS_FINAL_20180709_SDR_2K_HEVC.mov",
+    "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/comp_LW_L001_C006_PSNK_DENOISE_v02_SDR_PS_FINAL_20180709_SDR_4K_HEVC.mov"
+  },
+  {
+    "location": "Undersea",
+    "title": "Palau Coral [Nature]",
+    "url_1080p": "http://sylvan.apple.com/Aerials/2x/Videos/PA_A004_C003_SDR_20190719_SDR_2K_HEVC.mov",
+    "url_4k": "http://sylvan.apple.com/Aerials/2x/Videos/PA_A004_C003_SDR_20190719_SDR_4K_HEVC.mov"
+  }
+]
